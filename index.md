@@ -60,19 +60,19 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 
 # 👨🏻‍💻 Who made this?
 
-AxieDex is made by Tony Duong, a software engineer living in Tokyo 🇯🇵.
+AxieDex is made by [Tony Duong](https://github.com/tonystrawberry), a software engineer living in Tokyo 🇯🇵.
 
-I am a Axie Infinity fan and player 😁 I first made this extension for personal use to enhance the Axie Infinity interface in the most optimized way.
+I am a **Axie Infinity** fan and player 😁 I first made this extension for personal use to enhance the **Axie Infinity interface in the most optimized way**.
 
 Then I thought it was a good idea to share it with you all. I hope you find this extension helpful in your Axie Infinity playing experience ✨
 
-By the way, if you are learning Japanese 🇯🇵 or wants to start, check out my other work [**Shirimono**](https://shirimono.com).
+By the way, if you are learning **Japanese** 🇯🇵 or wants to start, check out my other work [**Shirimono**](https://shirimono.com).
 
 ---
 
 # 🙌🏻 Support
 
-❤️ Support **AxieDex** by rating ★★★★★ on Chrome store.
+❤️ Support **AxieDex** by rating ★★★★★ on [Chrome store](https://github.com/tonystrawberry).
 
 👨‍💻 Please reach out to me (**tony.duong.102@gmail.com**) in case you have any feedback of suggestions.
 
