@@ -11,7 +11,7 @@ layout: default
 
 ### 🌱 Display of Axie Stats
 
-The **Health**, **Speed**, **Skill** and **Morale** stats are displayed below the name of each Axie. The **purity** in percentage is also shown on the top-right area of each Axie card.
+The **Health**, **Speed**, **Skill** and **Morale** stats are displayed below the name of each Axie. The **pureness** in percentage is also shown on the top-right area of each Axie card.
 
 ![Axie Stats](/assets/img/image_1.png)
 
@@ -35,11 +35,11 @@ It is also possible to hide them by default and activate the display by **hoveri
 - <u>Inventory</u> (marketplace.axieinfinity.com/profile/inventory/axie)
 - <u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)
 
-### 🌱 PRO FEATURE 😎 Highlight Axies in the Marketplace based on the Purity value
+### 🌱 Highlight Axies in the Marketplace based on the Pureness value | PRO FEATURE ⭐️
 
-If you are looking for Axies based on their **purity** value, you can make the Axie card stand out by **adding a automatic highlight in the color of your choice**.
+If you are looking for Axies based on their **pureness** value, you can make the Axie card stand out by **adding a automatic highlight in the color of your choice**.
 
-In the AxieDex Chrome Extension, associate a purity value (from 0 to 100%) with a color (in HEX value) and apply the changes.
+In the AxieDex Chrome Extension, associate a **pureness** value (from 0 to 100%) with a **color** (in HEX value) and apply the changes.
 
 ![Axie Stats](/assets/img/image_4.png)
 
@@ -55,6 +55,47 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 - Install the [Extension](https://chrome.google.com/webstore/category/extensions?hl=en)
 - Open the Axie Marketplace
 - Enjoy the optimized display 🥳
+
+---
+
+# ⭐️ How to upgrade to PRO
+
+The **PRO feature** costs USD 10$
+
+### 💳 Stripe (USD) - Immediate Access
+You can pay by **Stripe** directly via the AxieDex extension. **Please note that we are not collecting any of your payment information** so rest assured 🙏
+
+Your access will then be granted **immediately** after payment.
+
+### 🍺 Ronin Wallet (SLP, AXS or WETH) - Access after 1 or 2 days
+You can opt to pay me via **Ronin** by sending me the equivalent of USD $10 in **SLP, AXS, or WETH**. It's up to you 👍🏻
+
+- First, make a transfer to the following Ronin Wallet address
+```
+ronin:10823fc96b4ea998f6e4ef56b1a9cf663a2b19a3
+```
+
+- Then send me an email at **<a href="mailto:sukikoso.jp@gmail.com">sukikoso.jp@gmail.com</a>** with the following template.
+
+```
+Subject: AxieDex Payment via Ronin - {email}
+
+Hi Tony!
+I just made a payment through Ronin.
+
+Here are my details.
+- email: xxxxxxx@xxx.com
+- amount: xxxx SLP (or AXS or WETH)
+- transaction hash: 0x0000000000000000000000000
+
+Thank you!
+```
+
+- The Transaction Hash can be accessed via your Ronin wallet like so.
+
+![Ronin](/assets/img/ronin.png)
+
+- You will receive an email **after 1 or 2 days** confirming the access to the PRO feature 😄
 
 ---
 
@@ -74,7 +115,7 @@ By the way, if you are learning **Japanese** 🇯🇵 or wants to start, check o
 
 ❤️ Support **AxieDex** by rating ★★★★★ on [Chrome store](https://github.com/tonystrawberry).
 
-👨‍💻 Please reach out to me (**tony.duong.102@gmail.com**) in case you have any feedback of suggestions.
+👨‍💻 Please reach out to me (**sukikoso.jp@gmail.com@gmail.com**) in case you have any feedback of suggestions.
 
 ---
 

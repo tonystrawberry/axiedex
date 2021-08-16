@@ -1,60 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AxieDex - The Ultimate Axie Infinity Extension</title>
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>AxieDex - The Ultimate Axie Infinity Extension | AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮" />
-<meta property="og:description" content="AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮" />
-<meta property="og:site_name" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<script type="application/ld+json">
-{"url":"/","description":"AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/logo.png"}},"headline":"AxieDex - The Ultimate Axie Infinity Extension","@type":"WebSite","name":"AxieDex - The Ultimate Axie Infinity Extension","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<link rel="shortcut icon" type="image/x-icon" href="/axiedex/favicon.ico"/>
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="/">AxieDex - The Ultimate Axie Infinity Extension</a></h1>
-
-        
-          <img src="/assets/img/logo.png" alt="Logo" />
-        
-
-        <p>AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮</p>
-
-        
-
-        
-
-        
-      </header>
-      <section>
-
-      <h1 id="-download">⬇ Download</h1>
+I"r<h1 id="-download">⬇ Download</h1>
 
 <p><a href="https://chrome.google.com/webstore/category/extensions?hl=en">Chrome / Brave / Edge extension</a></p>
 
@@ -96,7 +40,7 @@
 
 <p>If you are looking for Axies based on their <strong>pureness</strong> value, you can make the Axie card stand out by <strong>adding a automatic highlight in the color of your choice</strong>.</p>
 
-<p>In the AxieDex Chrome Extension, associate a <strong>pureness</strong> value (from 0 to 100%) with a <strong>color</strong> (in HEX value) and apply the changes.</p>
+<p>In the AxieDex Chrome Extension, associate a pureness value (from 0 to 100%) with a color (in HEX value) and apply the changes.</p>
 
 <p><img src="/assets/img/image_4.png" alt="Axie Stats" /></p>
 
@@ -123,20 +67,20 @@
 
 <p>The <strong>PRO feature</strong> costs USD 10$</p>
 
-<h3 id="-stripe-usd---immediate-access">💳 Stripe (USD) - Immediate Access</h3>
+<h4 id="stripe-usd---immediate-access">Stripe (USD) - Immediate Access</h4>
 <p>You can pay by <strong>Stripe</strong> directly via the AxieDex extension. <strong>Please note that we are not collecting any of your payment information</strong> so rest assured 🙏</p>
 
 <p>Your access will then be granted <strong>immediately</strong> after payment.</p>
 
-<h3 id="-ronin-wallet-slp-axs-or-weth---access-after-1-or-2-days">🍺 Ronin Wallet (SLP, AXS or WETH) - Access after 1 or 2 days</h3>
-<p>You can opt to pay me via <strong>Ronin</strong> by sending me the equivalent of USD $10 in <strong>SLP, AXS, or WETH</strong>. It’s up to you 👍🏻</p>
+<h4 id="ronin-wallet-slp-axs-or-weth---access-after-1-or-2-days">Ronin Wallet (SLP, AXS or WETH) - Access after 1 or 2 days</h4>
+<p>You can opt to pay me via <strong>Ronin</strong> by sending me the equivalent of $10 in* <strong>SLP, AXS, or WETH</strong>. It’s up to you 👍🏻</p>
 
 <ul>
   <li>First, make a transfer to the following Ronin Wallet address
     <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ronin:10823fc96b4ea998f6e4ef56b1a9cf663a2b19a3
 </code></pre></div>    </div>
   </li>
-  <li>Then send me an email at <strong><a href="mailto:sukikoso.jp@gmail.com">sukikoso.jp@gmail.com</a></strong> with the following template.</li>
+  <li>Then send me an email at <strong>sukikoso.jp@gmail.com</strong> with the following template.</li>
 </ul>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Subject: AxieDex Payment via Ronin - {email}
@@ -152,15 +96,9 @@ Here are my details.
 Thank you!
 </code></pre></div></div>
 
-<ul>
-  <li>The Transaction Hash can be accessed via your Ronin wallet like so.</li>
-</ul>
+<p>The Transaction Hash can be accessed via your Ronin wallet like so.</p>
 
 <p><img src="/assets/img/ronin.png" alt="Ronin" /></p>
-
-<ul>
-  <li>You will receive an email <strong>after 1 or 2 days</strong> confirming the access to the PRO feature 😄</li>
-</ul>
 
 <hr />
 
@@ -190,13 +128,4 @@ Thank you!
 <p>The extension makes API calls to third party APIs like Axie Infinity’s API to obtain data to display for enhanced visualization.</p>
 
 <p>The author of this extension has no control over how user activity is handled through those API calls.</p>
-
-
-      </section>
-      <footer>
-        
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+:ET

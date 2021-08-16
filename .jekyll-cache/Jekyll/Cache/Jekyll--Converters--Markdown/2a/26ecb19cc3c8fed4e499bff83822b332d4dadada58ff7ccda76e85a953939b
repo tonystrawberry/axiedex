@@ -1,4 +1,4 @@
-I"[<h1 id="-download">⬇ Download</h1>
+I"�<h1 id="-download">⬇ Download</h1>
 
 <p><a href="https://chrome.google.com/webstore/category/extensions?hl=en">Chrome / Brave / Edge extension</a></p>
 
@@ -8,7 +8,7 @@
 
 <h3 id="-display-of-axie-stats">🌱 Display of Axie Stats</h3>
 
-<p>The <strong>Health</strong>, <strong>Speed</strong>, <strong>Skill</strong> and <strong>Morale</strong> stats are displayed below the name of each Axie. The <strong>purity</strong> in percentage is also shown on the top-right area of each Axie card.</p>
+<p>The <strong>Health</strong>, <strong>Speed</strong>, <strong>Skill</strong> and <strong>Morale</strong> stats are displayed below the name of each Axie. The <strong>pureness</strong> in percentage is also shown on the top-right area of each Axie card.</p>
 
 <p><img src="/assets/img/image_1.png" alt="Axie Stats" /></p>
 
@@ -36,11 +36,11 @@
   <li><u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)</li>
 </ul>
 
-<h3 id="-pro-feature--highlight-axies-in-the-marketplace-based-on-the-purity-value">🌱 PRO FEATURE 😎 Highlight Axies in the Marketplace based on the Purity value</h3>
+<h3 id="-highlight-axies-in-the-marketplace-based-on-the-pureness-value--pro-feature-️">🌱 Highlight Axies in the Marketplace based on the Pureness value | PRO FEATURE ⭐️</h3>
 
-<p>If you are looking for Axies based on their <strong>purity</strong> value, you can make the Axie card stand out by <strong>adding a automatic highlight in the color of your choice</strong>.</p>
+<p>If you are looking for Axies based on their <strong>pureness</strong> value, you can make the Axie card stand out by <strong>adding a automatic highlight in the color of your choice</strong>.</p>
 
-<p>In the AxieDex Chrome Extension, associate a purity value (from 0 to 100%) with a color (in HEX value) and apply the changes.</p>
+<p>In the AxieDex Chrome Extension, associate a pureness value (from 0 to 100%) with a color (in HEX value) and apply the changes.</p>
 
 <p><img src="/assets/img/image_4.png" alt="Axie Stats" /></p>
 
@@ -56,28 +56,38 @@
 <h1 id="️-how-to-use">⚙️ How to use</h1>
 
 <ul>
-  <li>Install the <a href="https://chrome.google.com/webstore/category/extensions?hl=en"> Extension</a></li>
+  <li>Install the <a href="https://chrome.google.com/webstore/category/extensions?hl=en">Extension</a></li>
   <li>Open the Axie Marketplace</li>
   <li>Enjoy the optimized display 🥳</li>
 </ul>
 
 <hr />
 
+<h1 id="️-how-to-upgrade-to-pro">⭐️ How to upgrade to PRO</h1>
+
+<ul>
+  <li>The PRO feature costs USD 10$.</li>
+  <li>① You can pay by <strong>Stripe</strong> directly via the AxieDex extension. <strong>Please note that we are not collecting any of your payment information</strong> so rest assured 🙏</li>
+  <li>② You can opt to pay me via <strong>Ronin</strong> by sending me the equivalent of $10 in SLP, AXS, or WETH. It’s up to you 👍🏻</li>
+</ul>
+
+<hr />
+
 <h1 id="-who-made-this">👨🏻‍💻 Who made this?</h1>
 
-<p>AxieDex is made by Tony Duong, a software engineer living in Tokyo 🇯🇵.</p>
+<p>AxieDex is made by <a href="https://github.com/tonystrawberry">Tony Duong</a>, a software engineer living in Tokyo 🇯🇵.</p>
 
-<p>I am a Axie Infinity fan and player 😁 I first made this extension for personal use to enhance the Axie Infinity interface in the most optimized way.</p>
+<p>I am a <strong>Axie Infinity</strong> fan and player 😁 I first made this extension for personal use to enhance the <strong>Axie Infinity interface in the most optimized way</strong>.</p>
 
 <p>Then I thought it was a good idea to share it with you all. I hope you find this extension helpful in your Axie Infinity playing experience ✨</p>
 
-<p>By the way, if you are learning Japanese 🇯🇵 or wants to start, check out my other work <a href="https://shirimono.com"><strong>Shirimono</strong></a>.</p>
+<p>By the way, if you are learning <strong>Japanese</strong> 🇯🇵 or wants to start, check out my other work <a href="https://shirimono.com"><strong>Shirimono</strong></a>.</p>
 
 <hr />
 
 <h1 id="-support">🙌🏻 Support</h1>
 
-<p>❤️ Support <strong>AxieDex</strong> by rating ★★★★★ on Chrome store.</p>
+<p>❤️ Support <strong>AxieDex</strong> by rating ★★★★★ on <a href="https://github.com/tonystrawberry">Chrome store</a>.</p>
 
 <p>👨‍💻 Please reach out to me (<strong>tony.duong.102@gmail.com</strong>) in case you have any feedback of suggestions.</p>
 
