@@ -120,8 +120,8 @@ By the way, if you are learning **Japanese** 🇯🇵 or wants to start, check o
 ---
 
 # 👀 Privacy Policy
-AxieDex extension has no ads, no analytics, no trackers and no use of cookies. Furthermore, AxieDex does not store, collect or track any user data.
+AxieDex extension has no ads, no analytics, no trackers and no use of cookies. AxieDex will only store your email on Stripe in case of an upgrade to PRO features in order to track your order. Otherwise, AxieDex does not store, collect or track any user data.
 
-The extension makes API calls to third party APIs like Axie Infinity's API to obtain data to display for enhanced visualization.
+The extension makes API calls to third party APIs like Axie Infinity’s API to obtain data to display for enhanced visualization and Stripe for payment processing.
 
 The author of this extension has no control over how user activity is handled through those API calls.
