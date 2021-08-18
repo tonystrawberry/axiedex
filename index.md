@@ -113,9 +113,9 @@ By the way, if you are learning **Japanese** 🇯🇵 or wants to start, check o
 
 # 🙌🏻 Support
 
-❤️ Support **AxieDex** by rating ★★★★★ on [Chrome store](https://github.com/tonystrawberry).
+❤️ Support **AxieDex** by rating ★★★★★ on [Chrome store](https://chrome.google.com/webstore/category/extensions?hl=en).
 
-👨‍💻 Please reach out to me (**sukikoso.jp@gmail.com@gmail.com**) in case you have any feedback of suggestions.
+👨‍💻 Please reach out to me (**sukikoso.jp@gmail.com**) in case you have any feedback or suggestions.
 
 ---
 
