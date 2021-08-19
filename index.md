@@ -3,7 +3,7 @@ layout: default
 ---
 # ⬇ Download
 
-[Chrome / Brave / Edge extension](https://chrome.google.com/webstore/category/extensions?hl=en)
+[Chrome / Brave / Edge extension](https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo)
 
 ---
 
@@ -52,7 +52,7 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 
 # ⚙️ How to use
 
-- Install the [Extension](https://chrome.google.com/webstore/category/extensions?hl=en)
+- Install the [Extension](https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo)
 - Open the Axie Marketplace
 - Enjoy the optimized display 🥳
 
