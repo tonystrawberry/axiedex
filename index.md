@@ -9,7 +9,7 @@ layout: default
 
 # ✅ Currently added features
 
-### 🌱 Display of Axie Stats
+## 📌 Display of Axie Stats
 
 The **Health**, **Speed**, **Skill** and **Morale** stats are displayed below the name of each Axie. The **pureness** in percentage is also shown on the top-right area of each Axie card.
 
@@ -20,7 +20,7 @@ The **Health**, **Speed**, **Skill** and **Morale** stats are displayed below th
 - <u>Inventory</u> (marketplace.axieinfinity.com/profile/inventory/axie)
 - <u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)
 
-### 🌱 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page
+## 📌 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page
 
 The **Dominant**, **Recessive** and **Minor Recessive Genes** are displayed on each Axie card above the Axie illustration. This is extremely useful for players looking for specific parts.
 
@@ -35,7 +35,16 @@ It is also possible to hide them by default and activate the display by **hoveri
 - <u>Inventory</u> (marketplace.axieinfinity.com/profile/inventory/axie)
 - <u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)
 
-### 🌱 Highlight Axies in the Marketplace based on the Pureness value | PRO FEATURE ⭐️
+## 📌 Axie Search Bookmark
+
+The bookmark sidebar enables you to **bookmark you current Axie Marketplace search settings** by only setting a name and clicking on the save button. It will be then displayed on the sidebar as a link that you can consult whenever you want to.
+
+That feature is so time-saving when you are looking for Axies with specific conditions.
+
+![Bookmark](/assets/img/image_5.png)
+[![Bookmark Demo](https://i.gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a.gif)](https://gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a)
+
+## 📌 PRO FEATURE ⭐️ | Highlight Axies in the Marketplace based on the Pureness value
 
 If you are looking for Axies based on their **pureness** value, you can make the Axie card stand out by **adding a automatic highlight in the color of your choice**.
 

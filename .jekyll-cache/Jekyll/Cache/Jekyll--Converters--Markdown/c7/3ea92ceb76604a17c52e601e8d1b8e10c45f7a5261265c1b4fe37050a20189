@@ -1,60 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AxieDex - The Ultimate Axie Infinity Extension</title>
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>AxieDex - The Ultimate Axie Infinity Extension | AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮" />
-<meta property="og:description" content="AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮" />
-<meta property="og:site_name" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="AxieDex - The Ultimate Axie Infinity Extension" />
-<script type="application/ld+json">
-{"headline":"AxieDex - The Ultimate Axie Infinity Extension","url":"/","description":"AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/logo.png"}},"@type":"WebSite","name":"AxieDex - The Ultimate Axie Infinity Extension","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<link rel="shortcut icon" type="image/x-icon" href="/axiedex/favicon.ico"/>
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="/">AxieDex - The Ultimate Axie Infinity Extension</a></h1>
-
-        
-          <img src="/assets/img/logo.png" alt="Logo" />
-        
-
-        <p>AxieDex enhances the display of Axies information in the Axie Marketplace. This extension is a must-have for any players and breeders of Axie Infinity 🎮</p>
-
-        
-
-        
-
-        
-      </header>
-      <section>
-
-      <h1 id="-download">⬇ Download</h1>
+I"�<h1 id="-download">⬇ Download</h1>
 
 <p><a href="https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo">Chrome / Brave / Edge extension</a></p>
 
@@ -62,7 +6,7 @@
 
 <h1 id="-currently-added-features">✅ Currently added features</h1>
 
-<h2 id="-display-of-axie-stats">📌 Display of Axie Stats</h2>
+<h3 id="-display-of-axie-stats">📌 Display of Axie Stats</h3>
 
 <p>The <strong>Health</strong>, <strong>Speed</strong>, <strong>Skill</strong> and <strong>Morale</strong> stats are displayed below the name of each Axie. The <strong>pureness</strong> in percentage is also shown on the top-right area of each Axie card.</p>
 
@@ -75,7 +19,7 @@
   <li><u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)</li>
 </ul>
 
-<h2 id="-display-of-axie-dominant-recessive-and-minor-recessive-genes-on-the-marketplace-inventory-and-axie-details-page">📌 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page</h2>
+<h3 id="-display-of-axie-dominant-recessive-and-minor-recessive-genes-on-the-marketplace-inventory-and-axie-details-page">📌 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page</h3>
 
 <p>The <strong>Dominant</strong>, <strong>Recessive</strong> and <strong>Minor Recessive Genes</strong> are displayed on each Axie card above the Axie illustration. This is extremely useful for players looking for specific parts.</p>
 
@@ -101,7 +45,7 @@
 <p><img src="/assets/img/image_5.png" alt="Bookmark" />
 <a href="https://gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a"><img src="https://i.gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a.gif" alt="Bookmark Demo" /></a></p>
 
-<h2 id="-pro-feature-️--highlight-axies-in-the-marketplace-based-on-the-pureness-value">📌 PRO FEATURE ⭐️ | Highlight Axies in the Marketplace based on the Pureness value</h2>
+<h3 id="-pro-feature-️--highlight-axies-in-the-marketplace-based-on-the-pureness-value">📌 PRO FEATURE ⭐️ | Highlight Axies in the Marketplace based on the Pureness value</h3>
 
 <p>If you are looking for Axies based on their <strong>pureness</strong> value, you can make the Axie card stand out by <strong>adding a automatic highlight in the color of your choice</strong>.</p>
 
@@ -199,13 +143,4 @@ Thank you!
 <p>The extension makes API calls to third party APIs like Axie Infinity’s API to obtain data to display for enhanced visualization and Stripe for payment processing.</p>
 
 <p>The author of this extension has no control over how user activity is handled through those API calls.</p>
-
-
-      </section>
-      <footer>
-        
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+:ET
