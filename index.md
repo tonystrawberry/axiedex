@@ -30,10 +30,10 @@ It is also possible to hide them by default and activate the display by **hoveri
 
 ![Axie Stats](/assets/img/image_3.png)
 
-📆 UPDATE 1.13 - Cards are shown when hovering over traits. See GIFs below.
+### 📆 UPDATE 1.13 - Cards are shown when hovering over traits. See GIFs below.
 
-Marketplace Search View: https://gyazo.com/814260c7f6f187c7a75c86970132ed4e
-Axie Details: https://gyazo.com/196cebe308dc55a8208f5bb32357b65e
+- <u>Marketplace Search View:</u> https://gyazo.com/814260c7f6f187c7a75c86970132ed4e
+- <u>Axie Details:</u> https://gyazo.com/196cebe308dc55a8208f5bb32357b65e
 
 **Related Pages**
 - <u>Marketplace Search View</u> (marketplace.axieinfinity.com/axie)
