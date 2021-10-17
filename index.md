@@ -81,8 +81,8 @@ You can pay by **Stripe** directly via the AxieDex extension. **Please note that
 
 Your access will then be granted **immediately** after payment.
 
-### 🍺 Ronin Wallet (SLP, AXS or WETH) - Access after 1 or 2 days
-You can opt to pay me via **Ronin** by sending me the equivalent of USD $10 in **SLP, AXS, or WETH**. It's up to you 👍🏻
+### 🍺 Ronin Wallet (SLP) - Access after 1 or 2 days
+You can opt to pay me via **Ronin** by sending me the equivalent of USD $10 in **SLP** 👍🏻
 
 - First, make a transfer to the following Ronin Wallet address
 ```
@@ -99,7 +99,7 @@ I just made a payment through Ronin.
 
 Here are my details.
 - email: xxxxxxx@xxx.com
-- amount: xxxx SLP (or AXS or WETH)
+- amount: xxxx SLP
 - transaction hash: 0x0000000000000000000000000
 
 Thank you!
