@@ -69,9 +69,9 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 If you want to look for Axies based on their **dominant traits**, you can easily do so by **clicking on the [Find Similar Axies 🔍] button`**.
 
 It will open a page with all the Axies with the exact same dominant traits. That feature is quite useful for knowing how rare an Axie is in one click!
-![Similar Axies - Button](/assets/img/image5.png)
+![Similar Axies - Button](/assets/img/image_5.png)
 
-![Similar Axies - Results](/assets/img/image6.png)
+![Similar Axies - Results](/assets/img/image_6.png)
 
 **Related Pages**
 - <u>Marketplace Search View</u> (marketplace.axieinfinity.com/axie)
