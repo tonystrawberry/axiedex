@@ -1,12 +1,14 @@
-I"�<h1 id="-download">⬇ Download</h1>
+I"�!<h1 id="-download">⬇ Download</h1>
 
 <p><a href="https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo">Chrome / Brave / Edge extension</a></p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/axiedex/">Mozilla</a></p>
 
 <hr />
 
 <h1 id="-currently-added-features">✅ Currently added features</h1>
 
-<h3 id="-display-of-axie-stats">📌 Display of Axie Stats</h3>
+<h2 id="-display-of-axie-stats">📌 Display of Axie Stats</h2>
 
 <p>The <strong>Health</strong>, <strong>Speed</strong>, <strong>Skill</strong> and <strong>Morale</strong> stats are displayed below the name of each Axie. The <strong>pureness</strong> in percentage is also shown on the top-right area of each Axie card.</p>
 
@@ -19,7 +21,7 @@
   <li><u>Axie Details</u> (marketplace.axieinfinity.com/axie/1234567)</li>
 </ul>
 
-<h3 id="-display-of-axie-dominant-recessive-and-minor-recessive-genes-on-the-marketplace-inventory-and-axie-details-page">📌 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page</h3>
+<h2 id="-display-of-axie-dominant-recessive-and-minor-recessive-genes-on-the-marketplace-inventory-and-axie-details-page">📌 Display of Axie Dominant, Recessive and Minor Recessive Genes on the Marketplace, Inventory and Axie Details Page</h2>
 
 <p>The <strong>Dominant</strong>, <strong>Recessive</strong> and <strong>Minor Recessive Genes</strong> are displayed on each Axie card above the Axie illustration. This is extremely useful for players looking for specific parts.</p>
 
@@ -28,6 +30,13 @@
 <p>It is also possible to hide them by default and activate the display by <strong>hovering</strong> over the Axie card. This option can be set in the AxieDex Chrome Extension menu.</p>
 
 <p><img src="/assets/img/image_3.png" alt="Axie Stats" /></p>
+
+<h3 id="-update-113---cards-are-shown-when-hovering-over-traits">📆 UPDATE 1.13 - Cards are shown when hovering over traits</h3>
+
+<ul>
+  <li><a href="https://gyazo.com/814260c7f6f187c7a75c86970132ed4e">Marketplace Search View</a></li>
+  <li><a href="https://gyazo.com/196cebe308dc55a8208f5bb32357b65e">Axie Details</a></li>
+</ul>
 
 <p><strong>Related Pages</strong></p>
 <ul>
@@ -45,7 +54,7 @@
 <p><img src="/assets/img/image_5.png" alt="Bookmark" />
 <a href="https://gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a"><img src="https://i.gyazo.com/1e108eb1bf6fc6124c79486ef609bd8a.gif" alt="Bookmark Demo" /></a></p>
 
-<h3 id="-pro-feature-️--highlight-axies-in-the-marketplace-based-on-the-pureness-value">📌 PRO FEATURE ⭐️ | Highlight Axies in the Marketplace based on the Pureness value</h3>
+<h2 id="-pro-feature-️--highlight-axies-in-the-marketplace-based-on-the-pureness-value">📌 PRO FEATURE ⭐️ | Highlight Axies in the Marketplace based on the Pureness value</h2>
 
 <p>If you are looking for Axies based on their <strong>pureness</strong> value, you can make the Axie card stand out by <strong>adding a automatic highlight in the color of your choice</strong>.</p>
 
@@ -54,6 +63,21 @@
 <p><img src="/assets/img/image_4.png" alt="Axie Stats" /></p>
 
 <p>This feature is especially useful for <strong>breeders</strong> who wish to find the Axies with the <strong>perfect</strong> parts.</p>
+
+<p><strong>Related Pages</strong></p>
+<ul>
+  <li><u>Marketplace Search View</u> (marketplace.axieinfinity.com/axie)</li>
+</ul>
+
+<h2 id="-pro-feature-️--find-similar-axies-based-on-dominant-traits">📌 PRO FEATURE ⭐️ | Find similar Axies based on dominant traits</h2>
+
+<p>If you want to look for Axies based on their <strong>dominant traits</strong>, you can easily do so by <strong>clicking on the [Find Similar Axies 🔍] button</strong>.</p>
+
+<p>It will open a page with all the Axies with the exact same dominant traits. That feature is quite useful for knowing how rare an Axie is in one click!</p>
+
+<p><img src="/assets/img/image_6.png" alt="Similar Axies - Button" /></p>
+
+<p><img src="/assets/img/image_7.png" alt="Similar Axies - Results" /></p>
 
 <p><strong>Related Pages</strong></p>
 <ul>
@@ -74,15 +98,15 @@
 
 <h1 id="️-how-to-upgrade-to-pro">⭐️ How to upgrade to PRO</h1>
 
-<p>The <strong>PRO feature</strong> costs USD 10$</p>
+<p>The <strong>PRO feature</strong> costs USD 10$.</p>
 
 <h3 id="-stripe-usd---immediate-access">💳 Stripe (USD) - Immediate Access</h3>
 <p>You can pay by <strong>Stripe</strong> directly via the AxieDex extension. <strong>Please note that we are not collecting any of your payment information</strong> so rest assured 🙏</p>
 
 <p>Your access will then be granted <strong>immediately</strong> after payment.</p>
 
-<h3 id="-ronin-wallet-slp-axs-or-weth---access-after-1-or-2-days">🍺 Ronin Wallet (SLP, AXS or WETH) - Access after 1 or 2 days</h3>
-<p>You can opt to pay me via <strong>Ronin</strong> by sending me the equivalent of USD $10 in <strong>SLP, AXS, or WETH</strong>. It’s up to you 👍🏻</p>
+<h3 id="-ronin-wallet-slp---access-after-1-or-2-days">🍺 Ronin Wallet (SLP) - Access after 1 or 2 days</h3>
+<p>You can opt to pay me via <strong>Ronin</strong> by sending me the equivalent of USD $10 in <strong>SLP</strong> 👍🏻</p>
 
 <ul>
   <li>First, make a transfer to the following Ronin Wallet address
@@ -99,7 +123,7 @@ I just made a payment through Ronin.
 
 Here are my details.
 - email: xxxxxxx@xxx.com
-- amount: xxxx SLP (or AXS or WETH)
+- amount: xxxx SLP
 - transaction hash: 0x0000000000000000000000000
 
 Thank you!
@@ -124,6 +148,8 @@ Thank you!
 <p>I am a <strong>Axie Infinity</strong> fan and player 😁 I first made this extension for personal use to enhance the <strong>Axie Infinity interface in the most optimized way</strong>.</p>
 
 <p>Then I thought it was a good idea to share it with you all. I hope you find this extension helpful in your Axie Infinity playing experience ✨</p>
+
+<p>You can contact me on Discord: tonystrawberry#4316 🕹 I am sometimes present in the #breeding, #tools-api-etc, #francais-french channels of the Axie Infinity Discord ☺️</p>
 
 <p>By the way, if you are learning <strong>Japanese</strong> 🇯🇵 or wants to start, check out my other work <a href="https://shirimono.com"><strong>Shirimono</strong></a>.</p>
 
