@@ -5,6 +5,8 @@ layout: default
 
 [Chrome / Brave / Edge extension](https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo)
 
+[Mozilla](https://addons.mozilla.org/en-US/firefox/addon/axiedex/)
+
 ---
 
 # ✅ Currently added features
@@ -62,6 +64,18 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 **Related Pages**
 - <u>Marketplace Search View</u> (marketplace.axieinfinity.com/axie)
 
+## 📌 PRO FEATURE ⭐️ | Find similar Axies based on dominant traits
+
+If you want to look for Axies based on their **dominant traits**, you can easily do so by **clicking on the [Find Similar Axies 🔍] button`**.
+
+It will open a page with all the Axies with the exact same dominant traits. That feature is quite useful for knowing how rare an Axie is in one click!
+![Similar Axies - Button](/assets/img/image5.png)
+
+![Similar Axies - Results](/assets/img/image6.png)
+
+**Related Pages**
+- <u>Marketplace Search View</u> (marketplace.axieinfinity.com/axie)
+
 ---
 
 # ⚙️ How to use
@@ -74,7 +88,7 @@ This feature is especially useful for **breeders** who wish to find the Axies wi
 
 # ⭐️ How to upgrade to PRO
 
-The **PRO feature** costs USD 10$
+The **PRO feature** costs USD 10$.
 
 ### 💳 Stripe (USD) - Immediate Access
 You can pay by **Stripe** directly via the AxieDex extension. **Please note that we are not collecting any of your payment information** so rest assured 🙏
@@ -120,6 +134,8 @@ AxieDex is made by [Tony Duong](https://github.com/tonystrawberry), a software e
 I am a **Axie Infinity** fan and player 😁 I first made this extension for personal use to enhance the **Axie Infinity interface in the most optimized way**.
 
 Then I thought it was a good idea to share it with you all. I hope you find this extension helpful in your Axie Infinity playing experience ✨
+
+You can contact me on Discord: tonystrawberry#4316 🕹 I am sometimes present in the #breeding, #tools-api-etc, #francais-french channels of the Axie Infinity Discord ☺️
 
 By the way, if you are learning **Japanese** 🇯🇵 or wants to start, check out my other work [**Shirimono**](https://shirimono.com).
 
