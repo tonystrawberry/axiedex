@@ -9,9 +9,9 @@ layout: default
 
 ---
 
-# Features
+# 🎉 Features
 
-All the features are listed and detailed here 👉 https://axiedex.notion.site/axiedex/Home-041913aec33e4e179e557525200626a5 
+All the **features** are listed and detailed here: [Notion](https://axiedex.notion.site/axiedex/Home-041913aec33e4e179e557525200626a5)
 
 ---
 
@@ -19,7 +19,7 @@ All the features are listed and detailed here 👉 https://axiedex.notion.site/a
 
 - Install the [Extension](https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo)
 - Open the Axie Marketplace
-- Enjoy the optimized display 🥳
+- Enjoy the **optimized display** 🥳
 - For more features, login to the extension by clicking the SLP icon in your extension toolbar and subscribe 🌟
 
 ---
